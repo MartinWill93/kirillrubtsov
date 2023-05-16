@@ -253,6 +253,7 @@ html{
 }
 
 .photo-for-text-block img{
+    /* display: block; */
     width: 660px;
 }
 
